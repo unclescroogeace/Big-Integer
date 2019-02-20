@@ -1,0 +1,6 @@
+c:\users\uncle\documents\visual studio 2015\Projects\Homework\BigInteger\bin\Debug\BigInteger.exe.config
+C:\Users\uncle\Documents\Visual Studio 2015\Projects\Homework\BigInteger\bin\Debug\BigInteger.exe
+C:\Users\uncle\Documents\Visual Studio 2015\Projects\Homework\BigInteger\bin\Debug\BigInteger.pdb
+C:\Users\uncle\Documents\Visual Studio 2015\Projects\Homework\BigInteger\obj\Debug\BigInteger.exe
+C:\Users\uncle\Documents\Visual Studio 2015\Projects\Homework\BigInteger\obj\Debug\BigInteger.pdb
+C:\Users\uncle\documents\visual studio 2015\Projects\Homework\BigInteger\obj\Debug\BigInteger.csprojResolveAssemblyReference.cache
